@@ -9,6 +9,7 @@ title: Home
 **Team Members**
 
 _Tim Drafz_
+_Alex Leon_
 
 
 **_Bold and Italic Text_**
