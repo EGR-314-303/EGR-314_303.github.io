@@ -6,8 +6,8 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
+**Team Members**
+_Tim Drafz_
 **_Bold and Italic Text_**
 
 ## Research Question
