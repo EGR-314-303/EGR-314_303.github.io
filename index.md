@@ -7,7 +7,10 @@ title: Home
 ## Introduction
 
 **Team Members**
+
 _Tim Drafz_
+
+
 **_Bold and Italic Text_**
 
 ## Research Question
