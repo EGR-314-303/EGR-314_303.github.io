@@ -1,4 +1,4 @@
-# Team Charter 303
+# Team 303 Charter
 
 ## Team Goals <br />
 For goals, our group would like to: <br />
