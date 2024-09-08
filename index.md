@@ -1,5 +1,5 @@
 ---
-title: Project Solar
+title: Main Page
 ---
 
 ## Team 303
