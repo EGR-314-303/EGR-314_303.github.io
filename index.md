@@ -4,7 +4,6 @@ title: Project Solar
 
 ## Team 303
 
-<div style="text-align: center">
 **Team Members** <br />
 _Tim Drafz_ <br />
 _Alex Leon_ <br />
@@ -17,7 +16,7 @@ _Sivanee Naghichetty_ <br />
 
 **Arizona State University** <br />
 **EGR 314** <br />
-**Professor Nichols** </div>
+**Professor Nichols**
 
 ---
 
