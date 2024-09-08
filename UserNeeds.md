@@ -1,4 +1,6 @@
-# User Needs, Benchmarking, and Requirements
+---
+title: User Needs, Benchmarking, and Requirements
+---
 
 **1.) Renogy 200W Portable Solar Panel** <br />
 ![Renogy](https://github.com/user-attachments/assets/7cf17f81-3542-4f3c-8f21-0aa8d90e41cf)
