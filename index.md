@@ -24,7 +24,7 @@ _Sivanee Naghichetty_ <br />
 
 ## Team Organization
 
-** Mission Statement <br />
+**Mission Statement** <br />
 Our mission is to create an environment sensing and adjusting product that can be useful to most everyday people and fulfills all the project requirements within the budget we have been given.
 
 When drafting the team charter we focused on trying to give people responsibilities that fell within their strengths. Along with that we wanted to make sure we discussed conflict resolution within the group so we knew what problems would require escalation to teaching staff. When creating our goal we discussed what we wanted to get out the class itself. A link to the page with the full charter is listed below.
