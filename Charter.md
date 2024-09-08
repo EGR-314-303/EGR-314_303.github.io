@@ -38,21 +38,29 @@ If we need to meet in person specifically, we are all available to meet directly
 | Assignment leader | Alex | Coordinates the team’s work on a given assignment to Canvas before the due date |
 | Project monitor | Sivanee | Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+
 **How will you assign technical responsibilities to the team members?** <br />
 1. How will we ensure assignments are submitted before deadlines and each team member has “signed off” on each assignment?
   * Whoever is assigned the role of Assignment Leader will ensure that assignments are turned in on time.
+
 2. How will we ensure that each team member has the knowledge and skill required for each assignment, and how you will adjust if not?
   * We should be open about our skills and inform others for guidance on certain material that may be deemed difficult for peers so that they may be able to build up their skills.
+
 3. How will we ensure that feedback from your design review is distributed to and acted on by every of the team?
   * It may be beneficial to bring the return of our reviews at the coming of our available team meetings.
+
 4. How will we address missed contributions/assignments/actions?
   * If there has been an issue in turning items into the course, we will address the instructor the matter and ask for any possible extensions.
+
 5. How will we hold one another accountable to the expectations described in this charter?
   * A member will be assigned a specific task for the benefit of our final project, and if they provide low expectations the team will address the matter personally to try and maintain an organized and on-track path.
+
 6. How will we recognize that a team member is underperforming?
   * We can easily recognize if a team member is underperforming if they are not upholding their positions and based on any contribution they have performed during our course.
+
 7. How will we help an underperforming team member improve?
   * We would first address the matter and then we will discuss what needs to be done with the underperforming member and to try and assist them.
+
 8. What are the consequences if an underperforming team member does not improve?
   * Team members who consistently do not improve and underperform will be reported to the professor so that we can address the problem with both our team and the teaching staff.
 
