@@ -5,21 +5,17 @@ title: Main Page
 # Project Solar
 ## Team 303
 
-## Team Members
-
+**Team Members**
 _Tim Drafz_
-
 _Alex Leon_
-
 _Luke Jeffs_
-
 _Sivanee Naghichetty_
 
-## Preparation Date: 09/08/2024
+**Preparation Date: 09/08/2024**
 
-## Arizona State University
-## EGR 314
-## Professor Nichols
+**Arizona State University**
+**EGR 314**
+**Professor Nichols**
 
 ---
 
@@ -29,11 +25,15 @@ When drafting the team charter we focused on trying to give people responsibilit
 
 Link
 
+---
+
 # User Needs, Benchmarking, and Requirements
 
 Text
 
-Link
+[User Needs](Userneeds and Benchmarking.md)
+
+---
 
 # Design Ideation
 
