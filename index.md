@@ -1,43 +1,24 @@
 ---
-title: Home
+title: **Project Solar**
 ---
 
-# Home
+# Team 303
 
-## Introduction
+# Team Members
 
-**Team Members**
 
 _Tim Drafz_
+
 _Alex Leon_
+
 _Luke Jeffs_
 
+_Sivanee Naghichetty_
 
-**_Bold and Italic Text_**
+# Preparation Date: 09/08/2024
 
-## Research Question
+# Arizona State University
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+# EGR 314
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
+# Professor Nichols
