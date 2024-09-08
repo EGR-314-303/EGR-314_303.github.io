@@ -45,6 +45,6 @@ Text
 ## Design Ideation
 
 Text
-Design1/jam.png
+![Design2](https://github.com/user-attachments/assets/9a2c506c-34aa-4a28-bc87-05407fdd77ee)
 Link
 
