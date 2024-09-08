@@ -1,3 +1,4 @@
+<div style="text-align: center">
 ---
 title: Project Solar
 ---
@@ -17,7 +18,7 @@ _Sivanee Naghichetty_ <br />
 
 **Arizona State University** <br />
 **EGR 314** <br />
-**Professor Nichols**
+**Professor Nichols** </div>
 
 ---
 
