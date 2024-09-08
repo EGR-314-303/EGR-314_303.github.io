@@ -1,3 +1,6 @@
+title: Project Solar
+---
+
 ## Team 303
 
 **Team Members** <br />
