@@ -90,6 +90,7 @@ _“Its a good kit for all levels. The only complaint is the battery holder it c
 **Need:** Uses more standardized components
 
 **4.) SUNER POWER 12V Solar Battery Charger Maintainer**
+
 ![Suner](https://github.com/user-attachments/assets/e99a977f-035e-4ff2-a519-9ff7a293e580)
 
 Price: $59.95
