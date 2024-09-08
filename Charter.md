@@ -10,7 +10,8 @@ For goals, our group would like to: <br />
 ## Product Mission Statement <br />
 Our mission is to create an environment sensing and adjusting product that can be useful to most everyday people and fulfills all the project requirements within the budget we have been given.
 
-## Communication Channels <br />
+## Communication Channels
+
 | Name | First Channel | Second Channel | Third Channel |
 | ---- | ------------- | -------------- | ------------- |
 | Tim Drafz | _Discord_ | _Phone/Text_ | _Email_ |
@@ -30,7 +31,8 @@ The general idea for our group is that we will meet on Saturday and Sunday from 
 This will be over Discord so we don’t have to physically go somewhere to meet. 
 If we need to meet in person specifically, we are all available to meet directly after class on Monday and Wednesday as well.
 
-## Roles and Responsibilities <br />
+## Roles and Responsibilities
+
 | Role | Name | Duties |
 | ---- | ---- | ------ |
 | Meeting leader | Tim | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting |
