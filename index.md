@@ -45,6 +45,6 @@ Text
 ## Design Ideation
 
 Text
-(images/Design1.png)
+!Design1.png
 Link
 
