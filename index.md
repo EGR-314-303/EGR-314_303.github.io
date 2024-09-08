@@ -45,6 +45,6 @@ Text
 ## Design Ideation
 
 Text
-!Design1.png
+Design1/jam.png
 Link
 
