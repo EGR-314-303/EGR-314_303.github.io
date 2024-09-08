@@ -5,23 +5,19 @@ title: Main Page
 # Project Solar
 ## Team 303
 
-**Team Members**
-_Tim Drafz_
+**Team Members** <br />
 
-_Alex Leon_
-
-_Luke Jeffs_
-
-_Sivanee Naghichetty_
+_Tim Drafz_ <br />
+_Alex Leon_ <br />
+_Luke Jeffs_ <br />
+_Sivanee Naghichetty_ <br />
 
 
 **Preparation Date: 09/08/2024**
 
 
-**Arizona State University**
-
-**EGR 314**
-
+**Arizona State University** <br />
+**EGR 314** <br />
 **Professor Nichols**
 
 ---
@@ -48,11 +44,8 @@ Text
 
 ![Design 1](images/Design1.png)
 
-![Design2](https://github.com/user-attachments/assets/9a2c506c-34aa-4a28-bc87-05407fdd77ee)
+![Design2](images/Design2.png)
 
-![Design3](https://github.com/user-attachments/assets/3c596bf4-6ebd-4a40-96ed-985b936a60ac)
-
-
-![Design1](https://github.com/user-attachments/assets/a50a12f1-9bef-4f13-b100-10a33e8d7d07)
+![Design3](images/Design3.png)
 
 
