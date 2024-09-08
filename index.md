@@ -48,9 +48,3 @@ Text
 ![Design2](images/Design2.png)
 
 ![Design3](images/Design3.png)
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
