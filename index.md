@@ -1,8 +1,8 @@
-<div style="text-align: center">
 ---
 title: Project Solar
 ---
 
+<div style="text-align: center">
 ## Team 303
 
 **Team Members** <br />
