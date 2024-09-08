@@ -1,5 +1,5 @@
 ---
-title: **Project Solar**
+title: Project Solar
 ---
 
 # Team 303
