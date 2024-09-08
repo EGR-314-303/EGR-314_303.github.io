@@ -4,8 +4,8 @@ title: Project Solar
 
 ## Team 303
 
-<div style="text-align: center">**Team Members** <br />
-
+<div style="text-align: center">
+**Team Members** <br />
 _Tim Drafz_ <br />
 _Alex Leon_ <br />
 _Luke Jeffs_ <br />
