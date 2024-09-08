@@ -38,13 +38,16 @@ Link
 
 Text
 
-[User Needs](Userneeds and Benchmarking)
+[User Needs](UserNeeds.md)
 
 ---
 
 ## Design Ideation
 
 Text
+
+![Design 1](images/Design1.png)
+
 ![Design2](https://github.com/user-attachments/assets/9a2c506c-34aa-4a28-bc87-05407fdd77ee)
 
 ![Design3](https://github.com/user-attachments/assets/3c596bf4-6ebd-4a40-96ed-985b936a60ac)
