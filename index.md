@@ -2,10 +2,9 @@
 title: Project Solar
 ---
 
-<div style="text-align: center">
 ## Team 303
 
-**Team Members** <br />
+<div style="text-align: center">**Team Members** <br />
 
 _Tim Drafz_ <br />
 _Alex Leon_ <br />
