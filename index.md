@@ -49,4 +49,8 @@ Text
 
 ![Design3](images/Design3.png)
 
-
+<style>
+  .footer {
+    display: none;
+  }
+</style>
