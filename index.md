@@ -43,3 +43,6 @@ When coming up with our designs we looked over all the user needs that we had ra
 ![Design2](images/Design2.png)
 
 ![Design3](images/Design3.png)
+
+
+[Design Ideation](Ideation.md)
