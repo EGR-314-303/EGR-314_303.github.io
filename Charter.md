@@ -1,5 +1,5 @@
 ---
-title: Team 303 Charter
+ Team 303 Charter
 ---
 
 ## Team Goals <br />
