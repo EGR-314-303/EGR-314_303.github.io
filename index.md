@@ -1,5 +1,5 @@
 ---
-Title: Main Page
+title: Main Page
 ---
 
 ## Team 303
