@@ -1,5 +1,5 @@
 ---
-Title: User Needs, Benchmarking, and Requirements
+title: User Needs, Benchmarking, and Requirements
 ---
 
 **1.) Renogy 200W Portable Solar Panel** <br />
