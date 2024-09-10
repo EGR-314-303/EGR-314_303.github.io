@@ -29,20 +29,12 @@ When drafting the team charter we focused on trying to give people responsibilit
 ## User Needs, Benchmarking, and Requirements
 Our vision goes beyond achieving an 'A' or meeting the minimum course requirements. We aim to not just develop and refine our skills in embedded systems but also to create a project that future users can manage and build upon. Whether as a learning tool, a source of inspiration for their engineering projects, or even a hobby, we hope our work will have lasting value. Additionally, we have set a goal of designing subsystems that can be applied to creating a solar tracker device, capable of following the sun and storing energy efficiently. A link to our User Needs, Benchmarking, and Requirements is below.
 
-
 [User Needs](UserNeeds.md)
 
 ---
 
 ## Design Ideation
 
-When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason.
-
-![Design 1](images/Design1.png)
-
-![Design2](images/Design2.png)
-
-![Design3](images/Design3.png)
-
+When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. A link to the full design ideation page is below.
 
 [Design Ideation](Ideation.md)
