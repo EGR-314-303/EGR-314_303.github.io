@@ -190,7 +190,61 @@ Management: Ensures compliance with Team 303’s Identity, determines operationa
 
 Retailers: We prefer our product that can withstand a wide range of portability, long-lasting battery life, wifi communication and connectivity with users, works as an advertiser, and long mechanical life span with easy-to-understand instructions that can also provide secondary sources of information with our technology.
 
+**Use Cases**
 
+**User Story #1: Johnathan**
 
+Johnathan is a 34-year old man that likes to spend his free time hiking and camping. He tends to go on a long hike and camping trip for a few days once a month. Over the years his gear has increased in technology as he buys newer equipment for a better quality experience. The downside to this is that more and more of his equipment has come at a power cost that was not there in previous years. The main piece of equipment he loves to use is a handheld GPS from Garmin that he bought so he does not have to reference a map constantly. To accommodate all of this he has started taking a foldable solar panel to charge his gear. The panel itself does not weigh much, but it takes up a large amount of space in his pack which he could use for other gear. He finds a new panel that is smaller, and will follow the light to get even more charge. He falls in love with the product and finds himself refusing to go out camping without it.
 
+**User Story #2: Ellen**
 
+Ellen is a 23-year old woman living in Los Angeles that currently works from home. She loves the weather of the city, and really enjoys doing her work from the balcony of her apartment. From time to time she has had enough work that she stays out for hours and finds that her laptop does not last as long as she would like to spend outside. The problem has become that her balcony has no outlets so she must go back inside to plug her laptop in. A friend of hers that loves hanging out at the beach brought up an item he bought that is a small solar panel mount that tracks the light and moves accordingly for the most uptime. She decides to buy the product, and finds she gets to spend far more time outside while she works. This has helped her really destress and be more productive as the sunshine helps her mood tremendously.
+**User Story #3: Tim**
+
+Tim is a 21-year old man going to college full-time in Florida. He loves college life and hanging out with friends he has made after classes. While he is very studious and attentive in classes, he has a tendency to be forgetful. The two major things he constantly forgets are to charge his phone and laptop, and forgetting to bring his chargers. After two semesters of dealing with him asking for chargers, his friend suggests he buy a portable solar panel that he leaves in his bag. He finds one that is cheap that he can budget in and pulls the plug on his friend’s suggestion. He finds himself using it nearly every day as he tends to do schoolwork outside of the school library with his friends. He feels that the product has already paid for itself in just time gained for himself.
+
+**Aspects**
+
+**1.	Product Design**
+      The new product design will be based on that of solar panel trackers with improvements based on the following requirements:
+      1.1	The product needs to be lightweight.
+      1.2	The product will be small to be portable.
+      1.3	The product will be designed to move based on where the highest amount of light is detected.
+      1.4	The product needs to detect temperature and humidity to determine safe operation for product protection.
+      1.5	The product will have a way to easily read data.
+
+**2.  Functionality**
+      2.1  The product shall incorporate wifi capability via ESP32 microcontroller.
+      2.2	The product shall utilize a motor capable of 180° movement.
+      2.3	The product will use a temperature sensor.
+      2.4	The product will use a humidity sensor.
+      2.5	The product shall use a minimum of two light sensors.
+
+**3.  Interactivity**
+      3.1	The product will interface with phones to see temperature, humidity, and current position.
+
+**4.  Adaptive Intelligence**
+      4.1	The product shall use light sensors to automatically determine where to position the motor for the solar panel.
+
+**5.  Customization**
+      5.1	The product shall allow solar panels of multiple smaller sizes.
+
+**6. 	Manufacturing**
+      6.1	The total FOB cost price of the product shall be <$240.
+      6.2	The product must include a microcontroller from Microchip.
+
+**7.  Regulations**
+      7.1	The product shall meet all Arizona state solar panel and environmental regulations. (REG 44-1762 & 33-1816)
+
+**Open Questions**
+
+* Can we find ways to reduce the size without reducing the effectiveness?
+* Would using bluetooth for connectivity work better than wifi?
+
+**Milestones**
+
+Team Checkpoint 1: 09/09/2024 <br />
+Team Checkpoint 2: 10/21/2024 <br />
+Hardware Verification V2: 11/08/2024 <br />
+Innovation Showcase: 12/06/2024 <br />
+Team Checkpoint 3: 12/09/2024 <br />
