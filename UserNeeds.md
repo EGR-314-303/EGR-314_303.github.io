@@ -199,41 +199,42 @@ Johnathan is a 34-year old man that likes to spend his free time hiking and camp
 **User Story #2: Ellen**
 
 Ellen is a 23-year old woman living in Los Angeles that currently works from home. She loves the weather of the city, and really enjoys doing her work from the balcony of her apartment. From time to time she has had enough work that she stays out for hours and finds that her laptop does not last as long as she would like to spend outside. The problem has become that her balcony has no outlets so she must go back inside to plug her laptop in. A friend of hers that loves hanging out at the beach brought up an item he bought that is a small solar panel mount that tracks the light and moves accordingly for the most uptime. She decides to buy the product, and finds she gets to spend far more time outside while she works. This has helped her really destress and be more productive as the sunshine helps her mood tremendously.
+
 **User Story #3: Tim**
 
 Tim is a 21-year old man going to college full-time in Florida. He loves college life and hanging out with friends he has made after classes. While he is very studious and attentive in classes, he has a tendency to be forgetful. The two major things he constantly forgets are to charge his phone and laptop, and forgetting to bring his chargers. After two semesters of dealing with him asking for chargers, his friend suggests he buy a portable solar panel that he leaves in his bag. He finds one that is cheap that he can budget in and pulls the plug on his friend’s suggestion. He finds himself using it nearly every day as he tends to do schoolwork outside of the school library with his friends. He feels that the product has already paid for itself in just time gained for himself.
 
 **Aspects**
 
-**1.	Product Design**
-      The new product design will be based on that of solar panel trackers with improvements based on the following requirements:
-      1.1	The product needs to be lightweight.
-      1.2	The product will be small to be portable.
-      1.3	The product will be designed to move based on where the highest amount of light is detected.
-      1.4	The product needs to detect temperature and humidity to determine safe operation for product protection.
+**1.	Product Design** <br />
+      The new product design will be based on that of solar panel trackers with improvements based on the following requirements: <br />
+      1.1	The product needs to be lightweight. <br />
+      1.2	The product will be small to be portable. <br />
+      1.3	The product will be designed to move based on where the highest amount of light is detected. <br />
+      1.4	The product needs to detect temperature and humidity to determine safe operation for product protection. <br />
       1.5	The product will have a way to easily read data.
 
-**2.  Functionality**
-      2.1  The product shall incorporate wifi capability via ESP32 microcontroller.
-      2.2	The product shall utilize a motor capable of 180° movement.
-      2.3	The product will use a temperature sensor.
-      2.4	The product will use a humidity sensor.
+**2.  Functionality** <br />
+      2.1  The product shall incorporate wifi capability via ESP32 microcontroller. <br />
+      2.2	The product shall utilize a motor capable of 180° movement. <br />
+      2.3	The product will use a temperature sensor. <br />
+      2.4	The product will use a humidity sensor. <br />
       2.5	The product shall use a minimum of two light sensors.
 
-**3.  Interactivity**
+**3.  Interactivity** <br />
       3.1	The product will interface with phones to see temperature, humidity, and current position.
 
-**4.  Adaptive Intelligence**
+**4.  Adaptive Intelligence** <br />
       4.1	The product shall use light sensors to automatically determine where to position the motor for the solar panel.
 
-**5.  Customization**
+**5.  Customization** <br />
       5.1	The product shall allow solar panels of multiple smaller sizes.
 
-**6. 	Manufacturing**
-      6.1	The total FOB cost price of the product shall be <$240.
+**6. 	Manufacturing** <br />
+      6.1	The total FOB cost price of the product shall be <$240. <br />
       6.2	The product must include a microcontroller from Microchip.
 
-**7.  Regulations**
+**7.  Regulations** <br />
       7.1	The product shall meet all Arizona state solar panel and environmental regulations. (REG 44-1762 & 33-1816)
 
 **Open Questions**
