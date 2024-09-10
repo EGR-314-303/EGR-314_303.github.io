@@ -4,8 +4,7 @@ title: Main Page
 
 ## Team 303
 
-**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sivanee Naghichetty_ , _Luke Jeffs_ <br />
-
+**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sivanee Naghichetty_ , _Luke Jeffs_
 
 **Preparation Date**: 09/08/2024
 
@@ -27,7 +26,10 @@ When drafting the team charter we focused on trying to give people responsibilit
 ---
 
 ## User Needs, Benchmarking, and Requirements
-Our vision goes beyond achieving an 'A' or meeting the minimum course requirements. We aim to not just develop and refine our skills in embedded systems but also to create a project that future users can manage and build upon. Whether as a learning tool, a source of inspiration for their engineering projects, or even a hobby, we hope our work will have lasting value. Additionally, we have set a goal of designing subsystems that can be applied to creating a solar tracker device, capable of following the sun and storing energy efficiently. A link to our User Needs, Benchmarking, and Requirements is below.
+
+When coming up with the user needs we found products that were similar or exactly what we aimed to create. From there we went through top reviews and bottom reviews to find common praises or complaints about the product. Since the reviews do not always say exactly what issue the user had, it was up to us to find what the user really meant and how that translated into a specific need. A link to our full User Needs, Benchmarking, and Requirements page is below.
+
+When coming up with the user needs 
 
 [User Needs](UserNeeds.md)
 
@@ -35,14 +37,14 @@ Our vision goes beyond achieving an 'A' or meeting the minimum course requiremen
 
 ## Design Ideation
 
-When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. A link to the full design ideation page is below.
+When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. When brainstorming ideas we looked at the user needs and tried to directly correlate that into a feature. We found that just randomly listing off ideas was not a good use of time. The design concepts were sketched by two members based on our finalized ideas. A link to the full design ideation page is below.
 
 [Design Ideation](Ideation.md)
 
 ---
 
-## Presentation
+## Presentations
 
-A short presentation on our project can be found below.
+A link to all presentations on our project can be found below.
 
 [Presentations](Presentation.md)
