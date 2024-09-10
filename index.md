@@ -38,3 +38,9 @@ Our vision goes beyond achieving an 'A' or meeting the minimum course requiremen
 When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. A link to the full design ideation page is below.
 
 [Design Ideation](Ideation.md)
+
+---
+
+## Presentation
+
+A short presentation on our project.
