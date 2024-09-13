@@ -37,7 +37,7 @@ _“I really wanted to like this product but the shipping was slower than expect
 **2.) ECO-WORTHY Solar Panel Dual Axis Tracking System** <br />
 ![ecoworthy](https://github.com/user-attachments/assets/6ff82c0a-93a6-4e46-b360-399e725548cb)
 
-Price: $549.99
+Price: $549.99 <br />
 Keywords: solar panel trackr <br />
 Vendor: Amazon <br />
 Description: Kit for attaching solar panels to a mount that is capable of following light throughout the day automatically.
@@ -61,7 +61,7 @@ _“Works great until it breaks. I’ve gone through 4 actuators now they just k
 **3.) KEYESTUDIO DIY Solar Tracking Electronic Kit for Arduino** <br />
 ![Keyes](https://github.com/user-attachments/assets/61cdb82d-48ed-4873-802c-f4649a85f48b)
 
-Price: $69.99
+Price: $69.99 <br />
 _Keywords: solar panel tracket_ <br />
 _Vendor: Amazon_ <br />
 Description: A DIY kit to make a small-scale solar panel tracker that works with an Arduino.
@@ -93,7 +93,7 @@ _“Its a good kit for all levels. The only complaint is the battery holder it c
 
 ![Suner](https://github.com/user-attachments/assets/e99a977f-035e-4ff2-a519-9ff7a293e580)
 
-Price: $59.95
+Price: $59.95 <br />
 _Keywords: small solar panel charger_ <br />
 _Vendor: Amazon_ <br />
 Description: Small 12V solar panel charger for low-voltage charging applications such as car, boat, or RV batteries.
@@ -122,7 +122,7 @@ _“Took it out of the box put it in the sun, tested in voltage got 12.5v. Went 
 
 ![solarx](https://github.com/user-attachments/assets/e4166b35-3641-4c2b-a936-bfa5854a56eb)
 
-Price: $49.99
+Price: $49.99 <br />
 _Keywords: Mini Solar Panel Tracker_<br />
 _Vendor: Amazon_<br />
 Description: Miniature robotic kit that produces its energy and follows any light source. It’s simple to assemble and comes with a manual book to help customers in controlling and constructing the device.
