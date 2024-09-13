@@ -5,11 +5,9 @@ title: User Needs, Benchmarking, and Requirements
 **1.) Renogy 200W Portable Solar Panel** <br />
 ![Renogy](https://github.com/user-attachments/assets/7cf17f81-3542-4f3c-8f21-0aa8d90e41cf)
 
-Price: $235.99
-
-_Vendor: Amazon_ <br />
+Price: $235.99 <br />
 _Keywords: tiltable solar panels_ <br />
-
+_Vendor: Amazon_ <br />
 Description: A lightweight, foldable solar panel array that can be used for small things such as camping, hiking, and other outdoor activities requiring small space.
 
 **Positive Voice:**
@@ -38,8 +36,8 @@ _“I really wanted to like this product but the shipping was slower than expect
 ![ecoworthy](https://github.com/user-attachments/assets/6ff82c0a-93a6-4e46-b360-399e725548cb)
 
 Price: $549.99 <br />
-Keywords: solar panel trackr <br />
-Vendor: Amazon <br />
+_Keywords: solar panel tracker_ <br />
+_Vendor: Amazon_ <br />
 Description: Kit for attaching solar panels to a mount that is capable of following light throughout the day automatically.
 
 **Positive Voice:**
@@ -62,7 +60,7 @@ _“Works great until it breaks. I’ve gone through 4 actuators now they just k
 ![Keyes](https://github.com/user-attachments/assets/61cdb82d-48ed-4873-802c-f4649a85f48b)
 
 Price: $69.99 <br />
-_Keywords: solar panel tracket_ <br />
+_Keywords: solar panel tracker_ <br />
 _Vendor: Amazon_ <br />
 Description: A DIY kit to make a small-scale solar panel tracker that works with an Arduino.
 
