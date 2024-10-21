@@ -104,6 +104,8 @@ The hardware proposal is a schematic created through combining our individual su
 
 The overall goal of our software is to allow the optical sensors to dictate to the microcontroller when a change in light happens and the differential between the two sensors so it knows which side it is further towards. The micrcontroller then uses this information to send an update to the motor driver which will command the motor to rotate and move the panel. The temperature and humidity sensors are used to detect high/low temperatures and excess humidity that could negatively impact the unit. This will cause the microcontroller to perform a shutdown to protect the electronics inside. You can find the activity diagram on the Software Proposal page.
 
+---
+
 ## Presentations <a name="presentation"></a>
 
 A link to all presentations on our project can be found below.
