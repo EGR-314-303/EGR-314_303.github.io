@@ -60,7 +60,7 @@ When coming up with our designs we looked over all the user needs that we had ra
 
 Ultimately, we chose the first design for ease of build within the alloted timeline, and because the pitch turning was more unique to solar panels than the standard yaw. You can find all of the designs and the jamboard ideation on the Design Ideation page.
 
-[Final Design Selection](/images/Design1.png)
+![Final Design Selection](/images/Design1.png)
 
 A link to the full design ideation page is below.
 
