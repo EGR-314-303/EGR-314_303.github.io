@@ -16,6 +16,7 @@ title: Main Page
 
 ## Table of Contents
 
+[**Foreword**](#fore) <br />
 [**Team Organization**](#organization) <br />
 [**User Needs, Benchmarking, and Requirements**](#user) <br />
 [**Design Ideation**](#ideation) <br />
@@ -23,9 +24,14 @@ title: Main Page
 [**Component Selection**](#component) <br />
 [**Microcontroller Selection**](#micro) <br />
 [**Hardware Proposal**](#hw) <br />
+[**Software Proposal**](#sw) <br />
 [**Presentation**](#presentation) <br />
 
-Links provided at the top of the webpage may also be used to navigate to pages with full information.
+---
+
+## Foreword <a name="fore"></a>
+
+This main page serves as a snippet of the various pages with full information that we have. This was to reduce clutter on a page where all sections could be accessed and allow the user to easily find the section they wish to view. Links to each page can be found under each section which you can scroll to or click the section in the Table of Contents. At the top of the webpage is a listing of each page as well, and can be used to go directly to that page.
 
 ---
 
@@ -88,11 +94,15 @@ We had three main criteria when initially finding microcontroller choices: 8- or
 
 ## Hardware Proposal <a name="hw"></a>
 
-
+The hardware proposal is a schematic created through combining our individual subsystems to create a single board that interfaces with all components. You can find an image of the schematic, a link to the full intelligent PDF of the schematic, and our Bill of Materials on the Hardware Proposal page.
 
 [Hardware Proposal](HW.md)
 
 ---
+
+## Software Proposal <a name="sw"></a>
+
+The overall goal of our software is to allow the optical sensors to dictate to the microcontroller when a change in light happens and the differential between the two sensors so it knows which side it is further towards. The micrcontroller then uses this information to send an update to the motor driver which will command the motor to rotate and move the panel. The temperature and humidity sensors are used to detect high/low temperatures and excess humidity that could negatively impact the unit. This will cause the microcontroller to perform a shutdown to protect the electronics inside. You can find the activity diagram on the Software Proposal page.
 
 ## Presentations <a name="presentation"></a>
 
