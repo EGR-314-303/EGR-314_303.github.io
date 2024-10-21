@@ -19,6 +19,7 @@ title: Main Page
 [**Team Organization**](#organization) <br />
 [**User Needs, Benchmarking, and Requirements**](#user) <br />
 [**Design Ideation**](#ideation) <br />
+[**Block Diagram**](#block) <br />
 [**Presentation**](#presentation) <br />
 
 Links provided at the top of the webpage may also be used to navigate to pages with full information.
@@ -40,17 +41,29 @@ When drafting the team charter we focused on trying to give people responsibilit
 
 When coming up with the user needs we found products that were similar or exactly what we aimed to create. From there we went through top reviews and bottom reviews to find common praises or complaints about the product. Since the reviews do not always say exactly what issue the user had, it was up to us to find what the user really meant and how that translated into a specific need. A link to our full User Needs, Benchmarking, and Requirements page is below.
 
-When coming up with the user needs 
-
 [User Needs](UserNeeds.md)
 
 ---
 
 ## Design Ideation <a name="ideation"></a>
 
-When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. When brainstorming ideas we looked at the user needs and tried to directly correlate that into a feature. We found that just randomly listing off ideas was not a good use of time. The design concepts were sketched by two members based on our finalized ideas. A link to the full design ideation page is below.
+When coming up with our designs we looked over all the user needs that we had ranked and the features we thought were most important. Our main focus was trying to create a system that would not weigh much so that it could be transported, and that took up as little space as possible for the same reason. When brainstorming ideas we looked at the user needs and tried to directly correlate that into a feature. We found that just randomly listing off ideas was not a good use of time. The design concepts were sketched by two members based on our finalized ideas. 
+
+Ultimately, we chose the first design for ease of build within the alloted timeline, and because the pitch turning was more unique to solar panels than the standard yaw. 
+
+[Final Design Selection](/images/Design1.png)
+
+A link to the full design ideation page is below.
 
 [Design Ideation](Ideation.md)
+
+---
+
+## Block Diagram <a name="block"></a>
+
+Our block diagram shows a general overview of our major components and how they are connected to the microcontroller we selected. You can find the diagram in the link at the top or directly below.
+
+[Block Diagram](Block.md)
 
 ---
 
