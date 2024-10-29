@@ -132,3 +132,11 @@ Cost:
 | MCP16301T-I/CHY buck regulator| $1.36 |
 | LM2678SX-12/NOPB buck regulator| $4.42|
 | TPS54360DDAR buck regulator | $4.71 |
+
+
+**Power Budget**
+
+![Team 303 Power Budget xlsx - Power Budget_Page_1](https://github.com/user-attachments/assets/fa9d5f18-dfb7-4d13-ae6d-6057a49c82fe)
+
+
+
