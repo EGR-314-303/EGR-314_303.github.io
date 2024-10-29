@@ -52,3 +52,83 @@ _Components selected_
 Less leads to deal with|Adjustable output V is nice, but more tedious; On smaller side of regulators;Limited output current of 1.5A |
 | Rationale: |The limited current output for option 1 makes it far less appealing even if it is significantly cheaper. This is so that there is wiggle room if power budget calculations are incorrect to start. Between option 2 and 3, the biggest downside to option 2 is that it requires a minimum of 15V to operate. This makes input voltage sourcing more difficult and could potentially impede progress later on. Ultimately, option 3 served everything this project needs with some room on the current. While it may be tedious to adjust the regulator to 12V specifically it is still better than not having enough voltage to operate later on.|  
 
+_Components considered but rejected_
+
+**Light Sensor**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+| BH1750FVI  |Wide range for lux, with higher resolution,Automatic low-light rejection,No external components to use (op amp, etc)| Expensive for single sensor, High power draw for light sensors|
+LTR-329ALS-01 |Cheapest sensor of researched ones,Large dynamic range,Built-in temp sensor for compensation;High reflow temperature for ease of soldering|QFD can be hard to solder,Fewer addressable registers,Mfg lead time of 18 weeks|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| VEML7700 | $1.88 |
+| BH1750FVI  | 4.35 |
+| LTR-329ALS-01 | $0.88/ea |
+
+**Temperature Sensor**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+| TC74A4-3.3VCTTR  |Low cost,simple operation, wide operating temp. range| Low accuracy, no I2C support, High Power Consumption|
+ADT75BRMZ| High Accuracy, Low current, I2C interface|Narrower Temp. accuracy range,noisy output, moderate shutdown power|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| TC74A4-3.3VCTTR | $1.09 |
+| MCP9808T| $1.44 |
+| ADT75BRMZ | $3.76 |
+
+**Motor Controller**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+| L293DD  |Has two sides to control two Motors at the same time,Suitable for low-power motors, with a maximum current of 600mA per channel| Expensive for just 1 part = over $7,Supply voltage is between 7 - 36 volts,May be difficult to surface mount depending on its size|
+DRV8833| The power supply voltage is ~2.7 to 10.8 voltage,A more efficient and compact dual H-bridge motor driver.|Maybe a little costly,Lots of small pins which may be difficult to surface mount|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| L293DD | $7.94 |
+| DRV8833| $2.43 |
+| DRV8434SPWPR | $2.53 |
+
+**Motor**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+| PAN14EE12MD  |It’s a brushed motor,Looks durable,Long shaft to install it to something|Expensive for a single-motor,Exceeds past the voltage requirements (this takes 12v),Too small and has no way to mount to a surface|
+U-Type Inversion Mini Gear Motor| High precision, high torque,easily mount something on the motor's output shaft,Low energy consumption, low noise, replacement spare parts|Too expensive,It may be too small,Gears and parts may be fragile|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| PAN14EE12MD | $6.00 |
+| U-Type Inversion Mini Gear Motor| $9.87 |
+| 1-17HS15-1504S-X1 | $11.99 |
+
+
+**3.3V Swtiching regulator**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+|MCP1603T-330I/OS |Lowest lead time,Adjustable VOUT,Leg leads|Lower max VIN|
+TPS62172DSGT| Short protection,Temperature protection|6 week lead time,Pads more difficult to solder|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| AP63203WU-7 | $0.87 |
+| MCP1603T-330I/OS| $1.32|
+| TPS62172DSGT | $1.32 |
+
+**12V Swtiching regulator**
+| solution | Pros | Cons |
+| ---- | -------------- | ------------- |
+|MCP16301T-I/CH |Very cheap regulator,Large input V range,Adjustable output V with large range,Less leads to deal with|Adjustable output V is nice, but more tedious,On smaller side of regulators,Limited output current of 1.5A|
+LM2678SX-12/NOPB buck regulator| Output V is fixed at 12V for this version,Very large output current of 5A|Unorthodox SOT configuration,Even with fixed V the efficiency is lower (92%),Minimum input V is 15V|
+
+Cost:
+| Product | cost |
+| ---- | ------------- |
+| MCP16301T-I/CHY buck regulator| $1.36 |
+| LM2678SX-12/NOPB buck regulator| $4.42|
+| TPS54360DDAR buck regulator | $4.71 |
