@@ -62,7 +62,7 @@ Ultimately, we chose the first design for ease of build within the alloted timel
 
 ![Final Design Selection](/images/Design1.png)
 
-A link to the full design ideation page is below.
+A link to the full design ideation page can be found below.
 
 [Design Ideation](Ideation.md)
 
