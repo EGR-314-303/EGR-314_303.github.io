@@ -247,3 +247,8 @@ Team Checkpoint 2: 10/21/2024 <br />
 Hardware Verification V2: 11/08/2024 <br />
 Innovation Showcase: 12/06/2024 <br />
 Team Checkpoint 3: 12/09/2024 <br />
+
+---
+
+**Reflection and Knowledged gained:**
+From the start of the semester till all the way through the final stage of the course, our team have gathered knowledge as well as experience along the way with our innovation and ambition to get our product functioning. After our final demonstration with our product we have conclude that in the near future we must know what electronic component is being used with the example products listed above so that we may 1) understand it's functionality and purpose and 2) know if we may use that exact component or something similar to make our products more efficient and useful. We believe that knowing the capabilites of the electronic and hardware systems from the example products may help inspire us and help create newer and better ideas, so that way we may achieve the desires from users. 
