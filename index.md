@@ -4,7 +4,7 @@ title: Main Page
 
 ## Team 303
 
-**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sivanee Naghichetty_ , _Luke Jeffs_ , _Sean Hall_
+**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sivanee Naghichetty_ , _Sean Hall_
 
 **Preparation Date**: 10/21/2024
 
