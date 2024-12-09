@@ -24,8 +24,8 @@ title: Main Page
 [**Component Selection**](#component) <br />
 [**Microcontroller Selection**](#micro) <br />
 [**MPLAB and ESP32 Code**](#MPLAB) <br/>
-[**Hardware Proposal**](#hw) <br />
-[**Software Proposal**](#sw) <br />
+[**Hardware Implementation**](#hw) <br />
+[**Software Implementation**](#sw) <br />
 [**Presentation**](#presentation) <br />
 [**Team's final system Verification**](#verification) <br />
 [**Lesson's Learned**](#learned) <br />
@@ -112,21 +112,19 @@ The following below are the programs we have used on our team's offical product 
 
 ---
 
+## Hardware Implementation <a name="hw"></a>
 
+The hardware implementation is a design schematic created through combining our individual subsystems to create a single board that interfaces with all components. You can find an image of the V2 final schematic, a link to the full intelligent PDF of the schematic, images of the top and bottom of our custome PCB, a link to the PDF of the PCB images, and our Bill of Materials on the Hardware Implementation page.
 
-## Hardware Proposal <a name="hw"></a>
-
-The hardware proposal is a schematic created through combining our individual subsystems to create a single board that interfaces with all components. You can find an image of the schematic, a link to the full intelligent PDF of the schematic, and our Bill of Materials on the Hardware Proposal page.
-
-[Hardware Proposal](HW.md)
+[Hardware Implementation](HW.md)
 
 ---
 
-## Software Proposal <a name="sw"></a>
+## Software Implementation <a name="sw"></a>
 
-The overall goal of our software is to allow the optical sensors to dictate to the microcontroller when a change in light happens and the differential between the two sensors so it knows which side it is further towards. The microcontroller then uses this information to send an update to the motor driver which will command the motor to rotate and move the panel. The temperature and humidity sensors are used to detect high/low temperatures and excess humidity that could negatively impact the unit. This will cause the microcontroller to perform a shutdown to protect the electronics inside. You can find the activity diagram on the Software Proposal page.
+The overall goal of our software is to allow the optical sensors to dictate to the microcontroller when a change in light happens and the differential between the two sensors so it knows which side it is further towards. The microcontroller then uses this information to send an update to the motor driver which will command the motor to rotate and move the panel. The temperature and humidity sensors are used to detect high/low temperatures and excess humidity that could negatively impact the unit. This will cause the microcontroller to perform a shutdown to protect the electronics inside. You can find the activity diagram on the Software Implementation page.
 
-[Software Proposal](SW.md)
+[Software Implementation](SW.md)
 
 ---
 
@@ -145,15 +143,13 @@ Team 303's up to date system verification:
 
 [Verification](systemverification.md) 
 
-
-
 ---
 
-## Lesson's Learned  <a name="learned"></a>
-10 most important things that your team learned from working on this project: <br />
-1.) <br />
-2.) <br />
-3.) <br />
+## Lessons Learned  <a name="learned"></a>
+Ten of the most important things that our team learned from working on this project: <br />
+1.) Start working on the code as soon as possible. You will need more time than you think. <br />
+2.) Look at other PCB designs you can find to see how professionals structure their layouts to aid in your team design. <br />
+3.) Individual assignments are just as important as the team project. Many aspects of the final design will build upon these. <br />
 4.) <br />
 5.) <br />
 6.) <br />
@@ -165,8 +161,8 @@ Team 303's up to date system verification:
 ---
 ## Recommendations for future students <a name="Recommendations"></a>
 Top five recommendations for future students of what they should learn or do to prepare themselves for taking this class: <br />
-1.) <br />
-2.) <br />
+1.) If possible, try to have each member also learn a second subsystem. This can prevent potential issues if another member leaves or does not work enough. <br />
+2.) Recommend using ASU access to the ECAD license early to try and start getting use to the software and remove part of the learning curve when you have more time.<br />
 3.) <br />
 4.) <br />
 5.) <br />
