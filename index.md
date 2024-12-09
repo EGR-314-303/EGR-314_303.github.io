@@ -92,6 +92,16 @@ We had three main criteria when initially finding microcontroller choices: 8- or
 
 ---
 
+## MPLAB and ESP32 Code <a name="MPLAB"></a>
+
+The following below are the programs we have used on our team's offical product to detect light and humidity as well as controlling a stepper motor. With these codes, they have helped us to make the posibility for a solar panel to follow a directoin of a source of light.
+
+[MPLAB Code](pic/PIC(MPLABX).md)
+
+---
+
+
+
 ## Hardware Proposal <a name="hw"></a>
 
 The hardware proposal is a schematic created through combining our individual subsystems to create a single board that interfaces with all components. You can find an image of the schematic, a link to the full intelligent PDF of the schematic, and our Bill of Materials on the Hardware Proposal page.
