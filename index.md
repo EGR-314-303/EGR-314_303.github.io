@@ -150,9 +150,9 @@ Ten of the most important things that our team learned from working on this proj
 1.) Start working on the code as soon as possible. You will need more time than you think. <br />
 2.) Look at other PCB designs you can find to see how professionals structure their layouts to aid in your team design. <br />
 3.) Individual assignments are just as important as the team project. Many aspects of the final design will build upon these. <br />
-4.) <br />
-5.) <br />
-6.) <br />
+4.) Take advantage of available office hours as they are useful <br />
+5.) Find other resources online that may be useful for your projects <br />
+6.) Practice the resources given in the course. Materials such as C coding, Schematics, and PCB creation will be important. If you think you're already good at them, keep exercising these skills <br />
 7.) <br />
 8.) <br />
 9.) <br />
