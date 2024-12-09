@@ -164,7 +164,7 @@ Team 303's up to date system verification:
 
 ---
 ## Recommendations for future students <a name="Recommendations"></a>
-Top five recommendations for future students of what they should learn or do to prepare themselves for taking this class:
+Top five recommendations for future students of what they should learn or do to prepare themselves for taking this class: <br />
 1.) <br />
 2.) <br />
 3.) <br />
