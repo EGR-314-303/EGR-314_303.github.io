@@ -97,6 +97,7 @@ We had three main criteria when initially finding microcontroller choices: 8- or
 The following below are the programs we have used on our team's offical product to detect light and humidity as well as controlling a stepper motor. With these codes, they have helped us to make the posibility for a solar panel to follow a directoin of a source of light.
 
 [MPLAB Code](pic/PIC(MPLABX).md)
+[ESP32 Code](esp32/ESP32(code).md)
 
 ---
 
