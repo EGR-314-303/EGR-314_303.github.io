@@ -29,6 +29,7 @@ title: Main Page
 [**Presentation**](#presentation) <br />
 [**Team's final system Verification**](#verification) <br />
 [**Lesson's Learned**](#learned) <br />
+[**Recommendations for future students**](#Recommendations) <br />
 ---
 
 ## Foreword <a name="fore"></a>
@@ -160,3 +161,12 @@ Team 303's up to date system verification:
 8.) <br />
 9.) <br />
 10.) <br />
+
+---
+## Recommendations for future students <a name="Recommendations"></a>
+Top five recommendations for future students of what they should learn or do to prepare themselves for taking this class:
+1.) <br />
+2.) <br />
+3.) <br />
+4.) <br />
+5.) <br />
