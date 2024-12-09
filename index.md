@@ -128,8 +128,11 @@ A link to all presentations on our project can be found below.
 
 ---
 
-#Team's final completed system verification matrix  <a name="verification"></a>
-[verification](system verification.md)
+## Team's final completed system verification matrix  <a name="verification"></a>
+
+
+
+
 ---
 
 
