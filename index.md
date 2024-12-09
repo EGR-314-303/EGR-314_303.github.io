@@ -63,6 +63,14 @@ Ultimately, we chose the first design for ease of build within the alloted timel
 
 ![Final Design Selection](/images/Design1.png)
 
+Final Selected Design 
+
+![image](https://github.com/user-attachments/assets/bc40dd93-a804-49ba-ae0e-70c7d52c687b)
+
+* **Solar Tracking:** The system adjusts the orientation of the solar panel based on the sun's position. The light sensors mounted at the base detects sunlight, and the motor moves the solar panel accordingly
+* **Motorized Adjustment:** The one motor-driven system allows the panel to track the sun. maximizing energy efficiency by maintaining a perpendicular orientation to sunlight.
+*  **Control System:** The PCB in the base processes sensor data and controls the motor. The second sensor, one that is a humidity sensor, provides additional feedback, ensuring the system operates correctly under various conditions.
+*  **Why We chose this Design:** While making the Team's official PCB already in the manufacturing process, one of our members noticed that the one motor driver installed on the PCB could only operate one stepper motor. At the final minute, we had to make a change to the design using only one motor for orientation. During the design process, we figured this was an okay change since it was beneficial to our team's power budget from using two motors, both using 12 volts, to only one.
 A link to the full design ideation page can be found below.
 
 [Design Ideation](Ideation.md)
