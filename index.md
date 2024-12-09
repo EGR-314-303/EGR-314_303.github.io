@@ -4,9 +4,9 @@ title: Main Page
 
 ## Team 303
 
-**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sivanee Naghichetty_ , _Sean Hall_
+**Team Members**: _Tim Drafz_ , _Alex Leon_ , _Sean Hall_
 
-**Preparation Date**: 10/21/2024
+**Preparation Date**: 12/09/2024
 
 **Arizona State University** <br />
 **EGR 314** <br />
@@ -65,7 +65,7 @@ Ultimately, we chose the first design for ease of build within the alloted timel
 
 ![Final Design Selection](/images/Design1.png)
 
-Final Selected Design 
+**Final Selected Design**
 
 ![image](https://github.com/user-attachments/assets/bc40dd93-a804-49ba-ae0e-70c7d52c687b)
 
@@ -142,7 +142,7 @@ A link to all presentations on our project can be found below.
 Team 303's up to date system verification:
 
 ![sys verif](https://github.com/user-attachments/assets/48a703fc-8086-4da9-90b8-59c30a9d5549)
-[303-verification (1).xlsx](https://github.com/user-attachments/files/18054759/303-verification.1.xlsx)
+
 [Verification](systemverification.md) 
 
 
