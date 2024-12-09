@@ -138,13 +138,14 @@ Cost:
 
 | Component Selected | Why we Selected it | How it meets Product Requirments |
 | ---- | -------------- | ------------- |
-| Veml7700 | Relatively inexpensive, filters for ambient light adjustment, built-in tempsensor for thermal offset/shutdown | How it meets Product Requirments |
-| MCP9808T-M/SN | In comparison, while the ADT75BRMZ also uses I²C, it lacks the MCP9803's multi-device addressability and SMBus timeout features. The TC74A4-3.3VCTTR does not support I²C at all, relying instead on a simpler digital output, which limits its integration flexibility. Therefore, for I²C applications, the MCP9803T-M/SN stands out as the most feature-rich and flexible choice. | How it meets Product Requirments |
-| DRV8434SPWPR | 4.5 to 48-V Operating Supply Voltage Range, A simple SPI interface with STEP/DIR pins allows an external controller to manage the direction and step rate of the stepper motor | How it meets Product Requirments |
-| 1-17HS15-1504S-X1 | The motor is suitable for the selected microcontroller and is heavily built which may be useful against strong weather | How it meets Product Requirments |
-| AP63203WU-7 | The greater range of input voltages allows for more options, the legs will help ensure a good connection, and the regulator will operate well in the conditions we expect, while also providing protection if conditions should become extreme | How it meets Product Requirments |
-| MCP16301T-I/CH | Very cheap regulator,Large input V range,Adjustable output V with large range
-Less leads to deal with|Adjustable output V is nice, but more tedious; On smaller side of regulators;Limited output current of 1.5A | How it meets Product Requirments |
+| Veml7700 | Relatively inexpensive, filters for ambient light adjustment, built-in tempsensor for thermal offset/shutdown | The iteam is cheap and is designed to detect light and send a digital signal output |
+| MCP9808T-M/SN | In comparison, while the ADT75BRMZ also uses I²C, it lacks the MCP9803's multi-device addressability and SMBus timeout features. The TC74A4-3.3VCTTR does not support I²C at all, relying instead on a simpler digital output, which limits its integration flexibility. Therefore, for I²C applications, the MCP9803T-M/SN stands out as the most feature-rich and flexible choice. | The humidity sensor adds extra awareness to the surroundings for the user |
+| DRV8434SPWPR | 4.5 to 48-V Operating Supply Voltage Range, A simple SPI interface with STEP/DIR pins allows an external controller to manage the direction and step rate of the stepper motor | It offers high current capabilities and precise micro-stepping control via SPI interface |
+| 1-17HS15-1504S-X1 | The motor is suitable for the selected microcontroller and is heavily built which may be useful against strong weather | Is sturdy enough and will not wear easily |
+| AP63203WU-7 | The greater range of input voltages allows for more options, the legs will help ensure a good connection, and the regulator will operate well in the conditions we expect, while also providing protection if conditions should become extreme | It is a Great source to provide 3.3 voltage into the selected components from 12 volt supply |
+| MCP16301T-I/CH | Very cheap regulator, Large input V range, Adjustable output V with large range Less leads to deal with Adjustable output V is nice, but more tedious; On smaller side of regulators; Limited output current of 1.5A | It is a Great source to provide 12 voltage into the selected components from a 12-20 voltage supply |
+
+Items Removed: 
 
 
 ---
