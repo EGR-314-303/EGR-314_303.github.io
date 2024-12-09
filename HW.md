@@ -1,8 +1,8 @@
 ---
-title: Hardware Proposal
+title: Hardware Implementation
 ---
 
-# Hardware Proposal
+# Hardware Implementation
 
 Here is an image of the full V2 schematic for our team's board. The name next to the subsystem is the member that is working that portion of the project. The ESP32 subsystem will be left as a team endeavour. This version removed one member who withdrew from the course, however the regulator/microcontroller subsystems are a requirement and so they remained. The other member that is not listed elsewhere is still on this document as this design was finalized before contact had been lost for a longer period of time.
 
