@@ -1,3 +1,7 @@
+---
+title: System Verification
+---
+
 Team 303's up to date system verification:
 
 These were the final verifications completed by our team for our embedded system design.
