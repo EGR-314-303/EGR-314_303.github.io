@@ -27,7 +27,7 @@ title: Main Page
 [**Hardware Proposal**](#hw) <br />
 [**Software Proposal**](#sw) <br />
 [**Presentation**](#presentation) <br />
-[**Team's final system Verification](#verification) <br />
+[**Team's final system Verification**](#verification) <br />
 ---
 
 ## Foreword <a name="fore"></a>
@@ -129,7 +129,7 @@ A link to all presentations on our project can be found below.
 ---
 
 ## Team's final completed system verification matrix  <a name="verification"></a>
-
+[systems](systemsverification.md) 
 
 
 
