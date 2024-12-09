@@ -136,7 +136,14 @@ Cost:
 
 **Power Budget**
 
-![Team 303 Power Budget xlsx - Power Budget_Page_1](https://github.com/user-attachments/assets/fa9d5f18-dfb7-4d13-ae6d-6057a49c82fe)
+Updated images:
 
 
+![image](https://github.com/user-attachments/assets/407f4f71-c3a1-4d86-a3fe-7ac861165a9d)
+![image](https://github.com/user-attachments/assets/76a80244-1d06-402e-9088-20734e11ffdb)
 
+updated power budget(Excel):
+[Team 303 Power Budget.xlsx](https://github.com/user-attachments/files/18054890/Team.303.Power.Budget.xlsx)
+
+How it has helped us: Obtaining the information of the power required for components, The Power Budget has also helped our understanding in the power needs 
+by estimating the battery life, in hours, being consumed by said components for our project to function properly. And after obtaining the info of power needed, our team has turned to a 17 voltage source for our projects energy. 
