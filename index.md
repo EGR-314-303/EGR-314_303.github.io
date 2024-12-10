@@ -155,14 +155,15 @@ Ten of the most important things that our team learned from working on this proj
 6.) Practice the resources given in the course. Materials such as C coding, Schematics, and PCB creation will be important. If you think you're already good at them, keep exercising these skills. <br />
 7.) Research what some electronic components that are appropriate for the project's subsystems can do and find out if by adding them to the final project may be beneficial to the product requirements and user needs. <br />
 8.) Have weekly meetings with your team members to ensure you are all on the same boat about what you are doing and how you are all contributing to the group. Ask questions to one another on how you are all progressing in the class, ask if anyone needs assistance, or if they are struggling on some things to ensure they meet their success. <br />
-9.) <br />
-10.) <br />
+9.) Thoroughly plan out how all subsystems will operate and work together to ensure ease in construction. <br />
+10.) Recheck PCB design and port connections before printing to avoid large time delays or project setbacks. <br />
 
 ---
+
 ## Recommendations for future students <a name="Recommendations"></a>
 Top five recommendations for future students of what they should learn or do to prepare themselves for taking this class: <br />
 1.) If possible, try to have each member also learn a second subsystem. This can prevent potential issues if another member leaves or does not work enough. <br />
-2.) Recommend using ASU access to the ECAD license early to try and start getting use to the software and remove part of the learning curve when you have more time.<br />
-3.) Be sure to know when assignments must be submitted or checked off on time. I recommend using a calendar to better ensure when materials reach a certain deadline and for preparations such as demonstrations, interviews, and presentations. Speaking of Interviews and Presentations, be sure to carry around notes or cards to read and speak of the things you will and want to say based on what your project is <br />
-4.) <br />
-5.) <br />
+2.) Recommend using ASU access to the ECAD license early to try and start getting use to the software and remove part of the learning curve when you have more time. <br />
+3.) Be sure to know when assignments must be submitted or checked off on time. I recommend using a calendar to better ensure when materials reach a certain deadline and for preparations such as demonstrations, interviews, and presentations. Speaking of Interviews and Presentations, be sure to carry around notes or cards to read and speak of the things you will and want to say based on what your project is. <br />
+4.) Take time to develop relationships with the industry professionals that review your work. They are often highly qualified individuals in fields you are interested in, that are looking for students just like you! <br />
+5.) Make sure to gain comprehension in the assignments you are doing and why you are doing them, as they are meant to prepare you for the final project and beyond. <br />
